@@ -45,3 +45,6 @@ carousel-inner img {
     left: 0;
     height:32rem;
   }
+  .d-block img-fluid {
+      text-align: center;
+  }
