@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+  <title type="text">El tiempo</title>
+  <updated>2020-12-15T10:37:29Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://www.tiempo.es/"/>
+  <link rel="alternate" type="text/html" href="https://www.tiempo.es/"/>
+  <id>https://www.eltiempo.es/</id>
+  <entry>
+    <title>Tiempo de Sevilla</title>
+    <link rel="alternate" type="text/html" href="https://www.tiempo.es/sevilla-sevilla-es0se0093.html"/>
+    <updated>2020-12-21T10:19:11Z</updated>
+    <id>https://www.tiempo.es/sevilla-sevilla-es0se0093.html</id>
+    <author>
+      <name>>Pablo Duque Vaz</name>
+      <email>pduquevaz@gmail.com</email>
+    </author>
+    <summary>Aquí pertenece el tiempo de Sevilla</summary>
+  </entry>
+  <entry>
+    <title>Tiempo de Mairena del Aljarafe</title>
+    <link rel="alternate" type="text/html" href="https://www.tiempo.es/sevilla-mairena_del_aljarafe-es0se0061.html"/>
+    <updated>2020-12-21T10:21:11Z</updated>
+    <id>https://https://www.tiempo.es/sevilla-mairena_del_aljarafe-es0se0061.html</id>
+    <author>
+      <name>Pablo Duque Vaz</name>
+      <email>pduquevaz@gmail.com</email>
+    </author>
+    <summary>Aquí pertenece el tiempo de Mairena del Aljarafe</summary>
+  </entry>
+</feed>
